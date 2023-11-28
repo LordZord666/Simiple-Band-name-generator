@@ -1,4 +1,4 @@
-# Simiple-Band-name-generator
+Simiple-Band-name-generator
 
 I learned about print syntaxs and how to use it
 Learned about input types
